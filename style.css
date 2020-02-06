@@ -1,51 +1,25 @@
-body {
-    font-family: 'Open Sans', sans-serif;
+
+  .container {
+    margin-left:15%;
+    margin-bottom: 10%;
+    text-align: center;
+    border-radius: 15px;
+  } 
+ 
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
     line-height: 1;
   }
- .container {
-   margin-left:10%;
-   margin-bottom: 10%;
-   text-align: center;
-    border-radius: 15px;
- 
- 
- }
-.col-2 {
-
-  font-size:20px;
-  text-align: center;
-  border: 1px  black;
-  background-color: #ffffff;
-  color: #000000;
-  border-top: 1px dashed #000000;
- 
-}
-.col-9 {
-  background: transparent;
-    border: none;
-    resize: none;
-    color: #000000;
-    border-left: 1px solid black;
-    padding: 10px;
-}
-
-.fas {
-  font-size:30px;
-  text-align: center;
-  padding-right:20px;
-
-}
-
-
-  /*.textarea{
+  
+  textarea{
     background: transparent;
     border: none;
     resize: none;
     color: #000000;
     border-left: 1px solid black;
     padding: 10px;
-  }*/
+  }
   
   .jumbotron {
     text-align: center;
@@ -57,12 +31,13 @@ body {
   
   .description{
     white-space: pre-wrap;
+    
   }
   
-  /*.time-block{
+  .time-block{
     text-align: center;
     border-radius: 15px;
-  }*/
+  }
   
   .row {
     white-space: pre-wrap;
@@ -90,6 +65,11 @@ body {
     background-color: #77dd77;
     color: white;
   }
+
+  .fas {
+    margin-right:30px;
+    margin-top:10px;
+  }
   
   .saveBtn {
     border-left: 1px solid black;
@@ -97,10 +77,12 @@ body {
     border-bottom-right-radius: 15px;
     background-color: #06AED5;
     color: white;
+    padding:5px;
   }
   
   .saveBtn i:hover {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
+  
   
