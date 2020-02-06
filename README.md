@@ -22,6 +22,6 @@
 ![Screen Shot 2020-02-06 at 9 50 04 AM](https://user-images.githubusercontent.com/55516592/73959279-59784480-48c6-11ea-9f6d-733d1e1085ba.png)
 
 # Scheduler App 
-## [Day Planner](https://serendipitymm.github.io/Work-Day-Scheduler/)
+## :small_blue_diamond: [Day To Day Planner](https://serendipitymm.github.io/Work-Day-Scheduler/)
 
 
